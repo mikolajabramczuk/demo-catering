@@ -1,0 +1,9 @@
+pozycja,jednostka,koszt_netto_zl
+Śniadanie,osoba,22
+Lunch,osoba,34
+Bufet,osoba,40
+Kawa herbata i woda,osoba,5
+Zastawa wielorazowa,osoba,4
+Obsługa,godzina jednej osoby,55
+Dostawa do 15 km,wydarzenie,75
+Dostawa powyżej 15 do 30 km,wydarzenie,130
